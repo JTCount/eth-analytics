@@ -2,6 +2,8 @@
 
 Models, case-studies, and general analytics on Ethereum usage. Our current focus is general network usage and optimization potential - the goal is to establish a small set of data visualizations as initial proof-of-concept, followed by publishing our findings to attract users and contributors to the project.
 
+We are also working on a website for more friendly viewing of our work: [WIP](http://kilby.tech)
+
 ## Getting Started
 
 Clone repo and run any model using python3.x.x
